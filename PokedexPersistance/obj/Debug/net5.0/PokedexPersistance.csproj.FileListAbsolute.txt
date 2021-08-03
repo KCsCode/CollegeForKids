@@ -1,0 +1,15 @@
+C:\Users\KC\Source\Repos\PokedexPersistance\bin\Debug\net5.0\PokedexPersistance.deps.json
+C:\Users\KC\Source\Repos\PokedexPersistance\bin\Debug\net5.0\PokedexPersistance.runtimeconfig.json
+C:\Users\KC\Source\Repos\PokedexPersistance\bin\Debug\net5.0\PokedexPersistance.runtimeconfig.dev.json
+C:\Users\KC\Source\Repos\PokedexPersistance\bin\Debug\net5.0\PokedexPersistance.dll
+C:\Users\KC\Source\Repos\PokedexPersistance\bin\Debug\net5.0\ref\PokedexPersistance.dll
+C:\Users\KC\Source\Repos\PokedexPersistance\bin\Debug\net5.0\PokedexPersistance.pdb
+C:\Users\KC\Source\Repos\PokedexPersistance\obj\Debug\net5.0\PokedexPersistance.csproj.AssemblyReference.cache
+C:\Users\KC\Source\Repos\PokedexPersistance\obj\Debug\net5.0\PokedexPersistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KC\Source\Repos\PokedexPersistance\obj\Debug\net5.0\PokedexPersistance.AssemblyInfoInputs.cache
+C:\Users\KC\Source\Repos\PokedexPersistance\obj\Debug\net5.0\PokedexPersistance.AssemblyInfo.cs
+C:\Users\KC\Source\Repos\PokedexPersistance\obj\Debug\net5.0\PokedexPersistance.csproj.CoreCompileInputs.cache
+C:\Users\KC\Source\Repos\PokedexPersistance\obj\Debug\net5.0\PokedexPersistance.dll
+C:\Users\KC\Source\Repos\PokedexPersistance\obj\Debug\net5.0\ref\PokedexPersistance.dll
+C:\Users\KC\Source\Repos\PokedexPersistance\obj\Debug\net5.0\PokedexPersistance.pdb
+C:\Users\KC\Source\Repos\PokedexPersistance\obj\Debug\net5.0\PokedexPersistance.genruntimeconfig.cache
